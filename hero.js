@@ -162,9 +162,7 @@ document.addEventListener("DOMContentLoaded", () => {
     updateSlides();
   }
 
-  /* =========================
-    ABOUT ME
-  ========================= */
+
 /* =========================
    ABOUT ME
 ========================= */

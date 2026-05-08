@@ -1743,7 +1743,7 @@ a {
   border: 1px solid rgba(126, 126, 132, 0.14);
 
   background:
-    linear-gradient(180deg, rgba(255,255,255,0.28), rgba(255,255,255,0.1)),
+    linear-gradient(180deg, rgba(180, 193, 222, 0.28), rgba(255,255,255,0.1)),
     linear-gradient(180deg, #efeff2 0%, #ecebee 100%);
 
   box-shadow:
